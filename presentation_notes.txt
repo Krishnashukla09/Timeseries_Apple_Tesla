@@ -1,0 +1,35 @@
+Slide 1: Title
+- Time Series Forecasting for Apple (AAPL) & Tesla (TSLA)
+- Your name, date
+
+Slide 2: Objectives
+- Build and compare ARIMA, SARIMA, Prophet, LSTM models
+- Evaluate with MAE & RMSE
+
+Slide 3: Dataset
+- Source: Yahoo Finance via yfinance
+- Used 'Close' price, daily
+
+Slide 4: Preprocessing
+- Business-day resample, forward-fill
+- Rolling statistics & stationarity test
+
+Slide 5: Models
+- Short descriptions of ARIMA, SARIMA, Prophet, LSTM
+
+Slide 6: Results - Apple
+- Table placeholder: fill with metrics from results/AAPL/metrics.json
+
+Slide 7: Forecast Plot - Apple
+- Insert results/AAPL/forecast_plot.png
+
+Slide 8: Results - Tesla
+- Table placeholder: fill with metrics from results/TSLA/metrics.json
+
+Slide 9: Forecast Plot - Tesla
+- Insert results/TSLA/forecast_plot.png
+
+Slide 10: Conclusion & Next Steps
+- Best model summary and improvements
+
+Slide 11: Q&A

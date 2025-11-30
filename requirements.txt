@@ -1,0 +1,13 @@
+yfinance
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+prophet
+tensorflow
+keras
+python-pptx
+joblib
+tqdm
